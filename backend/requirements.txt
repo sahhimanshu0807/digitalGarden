@@ -1,1 +1,5 @@
 FastAPI
+uvicorn
+SQLAlchemy
+psycopg2-binary
+pydantic
